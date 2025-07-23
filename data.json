@@ -1,0 +1,12 @@
+[
+  {
+    "directoryName": "bigg",
+    "directoryImg": "512.png",
+    "musics": [
+      {
+        "musicName": "song1",
+        "musicFileName": "track1.mp3"
+      }
+    ]
+  }
+]
