@@ -1,11 +1,65 @@
 [
   {
-    "directoryName": "bigg",
-    "directoryImg": "512.png",
-    "musics": [
+    "image": "https://clean-trout-964.convex.cloud/api/storage/db2f7188-8117-482a-a2d9-df537dfae319",
+    "singer": "7liwa",
+    "tracks": [
       {
-        "musicName": "song1",
-        "musicFileName": "track1.mp3"
+        "name": "kolla nhar",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/a1357223-1c40-4678-aeb7-6cfa69d631cc"
+      },
+      {
+        "name": "no love",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/33d2450e-228a-4fdc-8e03-f2858eb816a0"
+      },
+      {
+        "name": "kakashi",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/fe403e0e-1177-4487-8a70-7a8400fff9e6"
+      },
+      {
+        "name": "douwi douwi",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/f064fd73-6f95-4500-88b3-22ecaabec024"
+      },
+      {
+        "name": "rym wahdani",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/747f3845-caf5-4341-8a95-5b183e70cd75"
+      }
+    ]
+  },
+  {
+    "image": "https://clean-trout-964.convex.cloud/api/storage/b8b2bc09-0c7d-402d-a8d1-f79e5d7b80b0",
+    "singer": "Djalil palermo",
+    "tracks": [
+      {
+        "name": "عطار - لمحتك",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/57eb0e40-bd05-4c13-aeea-0e8090e084ed"
+      },
+      {
+        "name": "dalam roho ft adel catania",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/5f196172-b740-4e31-af20-4aaf672ce2c0"
+      },
+      {
+        "name": "nabra men hbalek",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/efb616bc-5975-4c4c-ab06-e9572e9bb45c"
+      },
+      {
+        "name": "dayra el hafla",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/2670dc21-07ee-4a40-8287-bb31778c8bb8"
+      },
+      {
+        "name": "b la moto",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/839b08f7-e965-4e2f-9e6c-ae748ad3d459"
+      },
+      {
+        "name": "soltan e’lil",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/8013132c-4f99-4367-af35-cad29881fd0e"
+      },
+      {
+        "name": "bine yedik",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/999c465a-d290-44cd-abf6-a82e3bdb4bd2"
+      },
+      {
+        "name": "ya denia désolé",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/7c03d7d2-3fce-4b95-a96c-8c84282ae3ad"
       }
     ]
   }
