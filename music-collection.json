@@ -84,5 +84,35 @@
         "url": "https://clean-trout-964.convex.cloud/api/storage/f00a499f-f528-42be-957a-36edec9c5da2"
       }
     ]
+  },
+  {
+    "image": "https://clean-trout-964.convex.cloud/api/storage/53acd7ab-b107-41a3-8bca-e536d1fe78f7",
+    "singer": "pause",
+    "tracks": [
+      {
+        "name": "mchta w gdem",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/995f5da5-81c2-4abe-ace3-0c6c3cae4f5b"
+      },
+      {
+        "name": "112",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/fd373b27-7afe-4246-bf3c-316325340ac5"
+      },
+      {
+        "name": "l,bayda mon amour",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/c19b8bdc-ba91-42eb-b1a1-ff28d2c57566"
+      },
+      {
+        "name": "spartacus",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/c399f056-8414-4130-90fe-6c637316926b"
+      },
+      {
+        "name": "c.c",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/f893b3de-9cae-4447-9c9d-c9205a92ad89"
+      },
+      {
+        "name": "kamigaz",
+        "url": "https://clean-trout-964.convex.cloud/api/storage/84a87c73-dddd-4f86-9c2f-f19a83cc662d"
+      }
+    ]
   }
 ]
