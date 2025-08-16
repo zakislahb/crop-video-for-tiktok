@@ -1,74 +1,37 @@
 [
   {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/db2f7188-8117-482a-a2d9-df537dfae319",
+    "image": "https://earnest-koala-884.convex.cloud/api/storage/442acbd9-d203-4a98-8b40-235be28f6c5e",
     "singer": "7liwa",
     "tracks": [
       {
+        "name": "عطار - لمحتك",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/68287cb6-32f0-4bf7-969e-0716a55ab9a5"
+      },
+      {
+        "name": "kolla nhar",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/4b5996f2-1491-407d-9822-c5eefc83a73f"
+      },
+      {
+        "name": "no love",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/0732399e-74b2-473c-8602-dcda812b8a9e"
+      },
+      {
         "name": "kakashi",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/fe403e0e-1177-4487-8a70-7a8400fff9e6"
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/283431ce-328b-4e35-99eb-5102c5528ccc"
       },
       {
         "name": "douwi douwi",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/f064fd73-6f95-4500-88b3-22ecaabec024"
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/11dacb43-abe5-4636-8d64-08e14682d9aa"
       },
       {
         "name": "rym wahdani",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/747f3845-caf5-4341-8a95-5b183e70cd75"
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/eac77e9f-b74c-4f8a-b88a-95c407f21a02"
       }
     ]
   },
   {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/b8b2bc09-0c7d-402d-a8d1-f79e5d7b80b0",
+    "image": "https://earnest-koala-884.convex.cloud/api/storage/8ac1f096-bf24-4be5-9881-e891c6a5634d",
     "singer": "Djalil palermo",
-    "tracks": [
-      {
-        "name": "dalam roho ft adel catania",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/5f196172-b740-4e31-af20-4aaf672ce2c0"
-      },
-      {
-        "name": "nabra men hbalek",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/efb616bc-5975-4c4c-ab06-e9572e9bb45c"
-      },
-      {
-        "name": "dayra el hafla",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/2670dc21-07ee-4a40-8287-bb31778c8bb8"
-      }
-    ]
-  },
-  {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/dabfa356-b96b-4681-885a-3a3295836ee2",
-    "singer": "elgrandetoto",
-    "tracks": [
-      {
-        "name": " لمحتك",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/3f16c7f3-dd80-45c1-921e-88cb20dd8560"
-      },
-      {
-        "name": "fin de session",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/c5683af0-b11f-49dd-9b72-11023fb4e4d5"
-      },
-      {
-        "name": "bouhali",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/f00a499f-f528-42be-957a-36edec9c5da2"
-      }
-    ]
-  },
-  {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/53acd7ab-b107-41a3-8bca-e536d1fe78f7",
-    "singer": "pause",
-    "tracks": [
-      {
-        "name": "mchta w gdem",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/995f5da5-81c2-4abe-ace3-0c6c3cae4f5b"
-      },
-      {
-        "name": "112",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/fd373b27-7afe-4246-bf3c-316325340ac5"
-      },
-      {
-        "name": "l,bayda mon amour",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/c19b8bdc-ba91-42eb-b1a1-ff28d2c57566"
-      }
-    ]
+    "tracks": []
   }
 ]
