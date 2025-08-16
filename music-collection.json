@@ -32,6 +32,35 @@
   {
     "image": "https://earnest-koala-884.convex.cloud/api/storage/8ac1f096-bf24-4be5-9881-e891c6a5634d",
     "singer": "Djalil palermo",
-    "tracks": []
+    "tracks": [
+      {
+        "name": "dalam roho ft adel catania",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/7da83d82-b2a8-44f3-bc9c-f754003829f7"
+      },
+      {
+        "name": "nabra men hbalek",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/7aa9e14d-7ba2-40ca-a60c-e017a02e900d"
+      },
+      {
+        "name": "dayra el hafla",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/c1489246-ff1f-4f32-8417-fe6c6bdfd4be"
+      },
+      {
+        "name": "b la moto",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/0d52ad57-db12-4fea-9cb4-c08213300bff"
+      },
+      {
+        "name": "soltan e’lil",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/55b25df1-c3a3-43ce-bb7c-ee9c9ee69ad2"
+      },
+      {
+        "name": "bine yedik",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/af24968b-4502-4544-90c6-a23afb96a8c0"
+      },
+      {
+        "name": "ya denia désolé",
+        "url": "https://earnest-koala-884.convex.cloud/api/storage/5bb3d7ba-cf2e-40b7-8f5e-426e28afa978"
+      }
+    ]
   }
 ]
