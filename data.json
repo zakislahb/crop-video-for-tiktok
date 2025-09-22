@@ -1,66 +1,359 @@
-[
-  {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/db2f7188-8117-482a-a2d9-df537dfae319",
-    "singer": "7liwa",
-    "tracks": [
-      {
-        "name": "kolla nhar",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/a1357223-1c40-4678-aeb7-6cfa69d631cc"
-      },
-      {
-        "name": "no love",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/33d2450e-228a-4fdc-8e03-f2858eb816a0"
-      },
-      {
-        "name": "kakashi",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/fe403e0e-1177-4487-8a70-7a8400fff9e6"
-      },
-      {
-        "name": "douwi douwi",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/f064fd73-6f95-4500-88b3-22ecaabec024"
-      },
-      {
-        "name": "rym wahdani",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/747f3845-caf5-4341-8a95-5b183e70cd75"
-      }
+{
+    "app_title": "Rap Maroc",
+    "more": "",
+    "id_admob": "",
+    "inter_admob_ad": "",
+    "banner_admob_ad": "",
+    "clicks": "3",
+    "time": "2",
+    "singers": [
+        {
+            "image": "https://player.page.gd/uploads/artists/artist_68d16abe37fb50.17748975_7liwa.jpg",
+            "singer 1": "7liwa",
+            "tracks": [
+                {
+                    "name": "kolla nhar",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c1fa6525_track1.mp3"
+                },
+                {
+                    "name": "no love",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c1fc2f69_track2.mp3"
+                },
+                {
+                    "name": "kakashi",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c1fe0382_track3.mp3"
+                },
+                {
+                    "name": "douwi douwi",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c201b01c_track4.mp3"
+                },
+                {
+                    "name": "rym wahdani",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c20387d6_track5.mp3"
+                },
+                {
+                    "name": "lv coco",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c205b67a_track6.mp3"
+                },
+                {
+                    "name": "hallelujah",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c207ae08_track7.mp3"
+                },
+                {
+                    "name": "marfoud",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c2097ed4_track8.mp3"
+                },
+                {
+                    "name": "friw kriw",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c4242235_track9.mp3"
+                },
+                {
+                    "name": "didine cartoon",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c425b634_track10.mp3"
+                },
+                {
+                    "name": "ca tourne dans ma tête",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c4277176_track11.mp3"
+                },
+                {
+                    "name": "batal l3alam",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c4299efb_track12.mp3"
+                },
+                {
+                    "name": "macron",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c42d2a96_track13.mp3"
+                },
+                {
+                    "name": "quds",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c4301a69_track14.mp3"
+                },
+                {
+                    "name": "namasté",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c432aad7_track15.mp3"
+                },
+                {
+                    "name": "torres",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c69822fa_track16.mp3"
+                },
+                {
+                    "name": "chems lmaarif",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c69a3cca_track17.mp3"
+                },
+                {
+                    "name": "trump",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c69c124c_track18.mp3"
+                },
+                {
+                    "name": "lastreet",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c69e62e3_track19.mp3"
+                },
+                {
+                    "name": "dinero",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6a13483_track20.mp3"
+                },
+                {
+                    "name": "tchikita",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6a30754_track21.mp3"
+                },
+                {
+                    "name": "ohlala",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6a559d3_track22.mp3"
+                },
+                {
+                    "name": "tayer",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6a7caf1_track23.mp3"
+                },
+                {
+                    "name": "totoriina",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6a9fc98_track24.mp3"
+                },
+                {
+                    "name": "senorita",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6ac0f02_track25.mp3"
+                },
+                {
+                    "name": "yema",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6ade400_track26.mp3"
+                },
+                {
+                    "name": "nari",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6b0b4b6_track27.mp3"
+                },
+                {
+                    "name": "mi amore v2",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6b2a82c_track28.mp3"
+                },
+                {
+                    "name": "bilal",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6b4dc84_track29.mp3"
+                },
+                {
+                    "name": "mimi",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c6b6b11a_track30.mp3"
+                },
+                {
+                    "name": "la fafa",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8becdbc_track31.mp3"
+                },
+                {
+                    "name": "kmi kmi kmi",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8c1cfd0_track32.mp3"
+                },
+                {
+                    "name": "mi amore",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8c3a3a3_track33.mp3"
+                },
+                {
+                    "name": "haribo",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8c653cc_track34.mp3"
+                },
+                {
+                    "name": "adidas",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8c8a529_track35.mp3"
+                },
+                {
+                    "name": "tfo",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8cb3617_track36.mp3"
+                },
+                {
+                    "name": "the wind",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8cd8757_track37.mp3"
+                },
+                {
+                    "name": "nik dt",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8d0d422_track38.mp3"
+                },
+                {
+                    "name": "wald fatema",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8d2c8cf_track39.mp3"
+                },
+                {
+                    "name": "zawa lmdina",
+                    "url": "https://player.page.gd/uploads/tracks/68d16c8d5b725_track40.mp3"
+                }
+            ]
+        },
+        {
+            "image": "https://player.page.gd/uploads/artists/artist_68d16ccef2f8b8.20414859_djalil_palermo.jpg",
+            "singer 2": "Djalil palermo",
+            "tracks": [
+                {
+                    "name": "track1",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d22ecffd_track1.mp3"
+                },
+                {
+                    "name": "track2",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d231ede0_track2.mp3"
+                },
+                {
+                    "name": "track3",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d233e15e_track3.mp3"
+                },
+                {
+                    "name": "track4",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d2367268_track4.mp3"
+                },
+                {
+                    "name": "track5",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d2388540_track5.mp3"
+                },
+                {
+                    "name": "track6",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d23a3ab1_track6.mp3"
+                },
+                {
+                    "name": "track7",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d23c1102_track7.mp3"
+                },
+                {
+                    "name": "track8",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d23e0331_track8.mp3"
+                },
+                {
+                    "name": "track9",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d2420eb8_track9.mp3"
+                },
+                {
+                    "name": "track10",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d2449d36_track10.mp3"
+                },
+                {
+                    "name": "track11",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d246d3ce_track11.mp3"
+                },
+                {
+                    "name": "track12",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d249034e_track12.mp3"
+                },
+                {
+                    "name": "track13",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d24b732f_track13.mp3"
+                },
+                {
+                    "name": "track14",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d24dc5ed_track14.mp3"
+                },
+                {
+                    "name": "track15",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d250b589_track15.mp3"
+                },
+                {
+                    "name": "track16",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7c3a8c1_track16.mp3"
+                },
+                {
+                    "name": "track17",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7c5d688_track17.mp3"
+                },
+                {
+                    "name": "track18",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7c84825_track18.mp3"
+                },
+                {
+                    "name": "track19",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7caf81a_track19.mp3"
+                },
+                {
+                    "name": "track20",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7cd4935_track20.mp3"
+                },
+                {
+                    "name": "track21",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7d0f3fe_track21.mp3"
+                },
+                {
+                    "name": "track22",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7d383fd_track22.mp3"
+                },
+                {
+                    "name": "track23",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7d5b622_track23.mp3"
+                },
+                {
+                    "name": "track24",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7d827ea_track24.mp3"
+                },
+                {
+                    "name": "track25",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7d9fc31_track25.mp3"
+                },
+                {
+                    "name": "track26",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7dc6da2_track26.mp3"
+                },
+                {
+                    "name": "track27",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7defdb0_track27.mp3"
+                },
+                {
+                    "name": "track28",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7e22c04_track28.mp3"
+                },
+                {
+                    "name": "track29",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7e45e47_track29.mp3"
+                },
+                {
+                    "name": "track30",
+                    "url": "https://player.page.gd/uploads/tracks/68d16d7e6f2e4_track30.mp3"
+                },
+                {
+                    "name": "track31",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db141cd4_track31.mp3"
+                },
+                {
+                    "name": "track32",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db1633f5_track32.mp3"
+                },
+                {
+                    "name": "track33",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db198005_track33.mp3"
+                },
+                {
+                    "name": "track34",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db1bb261_track34.mp3"
+                },
+                {
+                    "name": "track35",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db1e6339_track35.mp3"
+                },
+                {
+                    "name": "track36",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db219218_track36.mp3"
+                },
+                {
+                    "name": "track37",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db2385a7_track37.mp3"
+                },
+                {
+                    "name": "track38",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db27ca83_track38.mp3"
+                },
+                {
+                    "name": "track39",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db2b93a0_track39.mp3"
+                },
+                {
+                    "name": "track40",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db2d483b_track40.mp3"
+                },
+                {
+                    "name": "track41",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db3038c2_track41.mp3"
+                },
+                {
+                    "name": "track42",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db332657_track42.mp3"
+                },
+                {
+                    "name": "track43",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db351b71_track43.mp3"
+                },
+                {
+                    "name": "track44",
+                    "url": "https://player.page.gd/uploads/tracks/68d16db37ca71_track44.mp3"
+                }
+            ]
+        }
     ]
-  },
-  {
-    "image": "https://clean-trout-964.convex.cloud/api/storage/b8b2bc09-0c7d-402d-a8d1-f79e5d7b80b0",
-    "singer": "Djalil palermo",
-    "tracks": [
-      {
-        "name": "عطار - لمحتك",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/57eb0e40-bd05-4c13-aeea-0e8090e084ed"
-      },
-      {
-        "name": "dalam roho ft adel catania",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/5f196172-b740-4e31-af20-4aaf672ce2c0"
-      },
-      {
-        "name": "nabra men hbalek",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/efb616bc-5975-4c4c-ab06-e9572e9bb45c"
-      },
-      {
-        "name": "dayra el hafla",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/2670dc21-07ee-4a40-8287-bb31778c8bb8"
-      },
-      {
-        "name": "b la moto",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/839b08f7-e965-4e2f-9e6c-ae748ad3d459"
-      },
-      {
-        "name": "soltan e’lil",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/8013132c-4f99-4367-af35-cad29881fd0e"
-      },
-      {
-        "name": "bine yedik",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/999c465a-d290-44cd-abf6-a82e3bdb4bd2"
-      },
-      {
-        "name": "ya denia désolé",
-        "url": "https://clean-trout-964.convex.cloud/api/storage/7c03d7d2-3fce-4b95-a96c-8c84282ae3ad"
-      }
-    ]
-  }
-]
+}
