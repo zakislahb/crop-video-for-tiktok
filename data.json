@@ -7,353 +7,69 @@
     "clicks": "5",
     "time": "2",
     "singers": [
+    {
+      "image": "https://earnest-koala-884.convex.cloud/api/storage/8ac1f096-bf24-4be5-9881-e891c6a5634d",
+      "singer 1": "Djalil palermo",
+      "tracks": [
         {
-            "image": "https://player.page.gd/uploads/artists/artist_68d16abe37fb50.17748975_7liwa.jpg",
-            "singer 1": "7liwa",
-            "tracks": [
-                {
-                    "name": "kolla nhaaaaar",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c1fa6525_track1.mp3"
-                },
-                {
-                    "name": "no love",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c1fc2f69_track2.mp3"
-                },
-                {
-                    "name": "kakashi",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c1fe0382_track3.mp3"
-                },
-                {
-                    "name": "douwi douwi",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c201b01c_track4.mp3"
-                },
-                {
-                    "name": "rym wahdani",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c20387d6_track5.mp3"
-                },
-                {
-                    "name": "lv coco",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c205b67a_track6.mp3"
-                },
-                {
-                    "name": "hallelujah",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c207ae08_track7.mp3"
-                },
-                {
-                    "name": "marfoud",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c2097ed4_track8.mp3"
-                },
-                {
-                    "name": "friw kriw",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c4242235_track9.mp3"
-                },
-                {
-                    "name": "didine cartoon",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c425b634_track10.mp3"
-                },
-                {
-                    "name": "ca tourne dans ma tête",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c4277176_track11.mp3"
-                },
-                {
-                    "name": "batal l3alam",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c4299efb_track12.mp3"
-                },
-                {
-                    "name": "macron",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c42d2a96_track13.mp3"
-                },
-                {
-                    "name": "quds",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c4301a69_track14.mp3"
-                },
-                {
-                    "name": "namasté",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c432aad7_track15.mp3"
-                },
-                {
-                    "name": "torres",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c69822fa_track16.mp3"
-                },
-                {
-                    "name": "chems lmaarif",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c69a3cca_track17.mp3"
-                },
-                {
-                    "name": "trump",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c69c124c_track18.mp3"
-                },
-                {
-                    "name": "lastreet",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c69e62e3_track19.mp3"
-                },
-                {
-                    "name": "dinero",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6a13483_track20.mp3"
-                },
-                {
-                    "name": "tchikita",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6a30754_track21.mp3"
-                },
-                {
-                    "name": "ohlala",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6a559d3_track22.mp3"
-                },
-                {
-                    "name": "tayer",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6a7caf1_track23.mp3"
-                },
-                {
-                    "name": "totoriina",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6a9fc98_track24.mp3"
-                },
-                {
-                    "name": "senorita",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6ac0f02_track25.mp3"
-                },
-                {
-                    "name": "yema",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6ade400_track26.mp3"
-                },
-                {
-                    "name": "nari",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6b0b4b6_track27.mp3"
-                },
-                {
-                    "name": "mi amore v2",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6b2a82c_track28.mp3"
-                },
-                {
-                    "name": "bilal",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6b4dc84_track29.mp3"
-                },
-                {
-                    "name": "mimi",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c6b6b11a_track30.mp3"
-                },
-                {
-                    "name": "la fafa",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8becdbc_track31.mp3"
-                },
-                {
-                    "name": "kmi kmi kmi",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8c1cfd0_track32.mp3"
-                },
-                {
-                    "name": "mi amore",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8c3a3a3_track33.mp3"
-                },
-                {
-                    "name": "haribo",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8c653cc_track34.mp3"
-                },
-                {
-                    "name": "adidas",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8c8a529_track35.mp3"
-                },
-                {
-                    "name": "tfo",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8cb3617_track36.mp3"
-                },
-                {
-                    "name": "the wind",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8cd8757_track37.mp3"
-                },
-                {
-                    "name": "nik dt",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8d0d422_track38.mp3"
-                },
-                {
-                    "name": "wald fatema",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8d2c8cf_track39.mp3"
-                },
-                {
-                    "name": "zawa lmdina",
-                    "url": "https://player.page.gd/uploads/tracks/68d16c8d5b725_track40.mp3"
-                }
-            ]
+          "name": "dalam roho ft adel catania",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/7da83d82-b2a8-44f3-bc9c-f754003829f7"
         },
         {
-            "image": "https://player.page.gd/uploads/artists/artist_68d16ccef2f8b8.20414859_djalil_palermo.jpg",
-            "singer 2": "Djalil palermo",
-            "tracks": [
-                {
-                    "name": "dalam roho ft adel catania",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d22ecffd_track1.mp3"
-                },
-                {
-                    "name": "nabra men hbalek",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d231ede0_track2.mp3"
-                },
-                {
-                    "name": "dayra el hafla",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d233e15e_track3.mp3"
-                },
-                {
-                    "name": "b la moto",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d2367268_track4.mp3"
-                },
-                {
-                    "name": "soltan e’lil",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d2388540_track5.mp3"
-                },
-                {
-                    "name": "bine yedik",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d23a3ab1_track6.mp3"
-                },
-                {
-                    "name": "ya denia désolé",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d23c1102_track7.mp3"
-                },
-                {
-                    "name": "bactérie  - 2024",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d23e0331_track8.mp3"
-                },
-                {
-                    "name": "nsel fik",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d2420eb8_track9.mp3"
-                },
-                {
-                    "name": "gtiyi abrid",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d2449d36_track10.mp3"
-                },
-                {
-                    "name": "ghir enti",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d246d3ce_track11.mp3"
-                },
-                {
-                    "name": "jamais.",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d249034e_track12.mp3"
-                },
-                {
-                    "name": "héréditaire",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d24b732f_track13.mp3"
-                },
-                {
-                    "name": "euro dollar",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d24dc5ed_track14.mp3"
-                },
-                {
-                    "name": "djaya djaya",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d250b589_track15.mp3"
-                },
-                {
-                    "name": "djibouha na3ima",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7c3a8c1_track16.mp3"
-                },
-                {
-                    "name": "omri pardon",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7c5d688_track17.mp3"
-                },
-                {
-                    "name": "mazalni",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7c84825_track18.mp3"
-                },
-                {
-                    "name": "no stop",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7caf81a_track19.mp3"
-                },
-                {
-                    "name": "engagé",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7cd4935_track20.mp3"
-                },
-                {
-                    "name": "calma",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7d0f3fe_track21.mp3"
-                },
-                {
-                    "name": "wahdani",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7d383fd_track22.mp3"
-                },
-                {
-                    "name": "money money",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7d5b622_track23.mp3"
-                },
-                {
-                    "name": "ordinaire",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7d827ea_track24.mp3"
-                },
-                {
-                    "name": "ana el kawi",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7d9fc31_track25.mp3"
-                },
-                {
-                    "name": "roho qololha",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7dc6da2_track26.mp3"
-                },
-                {
-                    "name": "edouha aliya",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7defdb0_track27.mp3"
-                },
-                {
-                    "name": "wech dani",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7e22c04_track28.mp3"
-                },
-                {
-                    "name": "courage",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7e45e47_track29.mp3"
-                },
-                {
-                    "name": "fi hwak",
-                    "url": "https://player.page.gd/uploads/tracks/68d16d7e6f2e4_track30.mp3"
-                },
-                {
-                    "name": "soubhan allah",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db141cd4_track31.mp3"
-                },
-                {
-                    "name": "hasta luego",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db1633f5_track32.mp3"
-                },
-                {
-                    "name": "ga3 li srali",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db198005_track33.mp3"
-                },
-                {
-                    "name": "nihaya",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db1bb261_track34.mp3"
-                },
-                {
-                    "name": "rahi teghazal fiya",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db1e6339_track35.mp3"
-                },
-                {
-                    "name": "flouka nayda",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db219218_track36.mp3"
-                },
-                {
-                    "name": "mouloudia wel walida",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db2385a7_track37.mp3"
-                },
-                {
-                    "name": "3am lmhabel",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db27ca83_track38.mp3"
-                },
-                {
-                    "name": "guapa",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db2b93a0_track39.mp3"
-                },
-                {
-                    "name": "kareh men passé",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db2d483b_track40.mp3"
-                },
-                {
-                    "name": "toujours fibali",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db3038c2_track41.mp3"
-                },
-                {
-                    "name": "el mamlaka",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db332657_track42.mp3"
-                },
-                {
-                    "name": "el walida",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db351b71_track43.mp3"
-                },
-                {
-                    "name": "rcha l corps",
-                    "url": "https://player.page.gd/uploads/tracks/68d16db37ca71_track44.mp3"
-                }
-            ]
+          "name": "nabra men hbalek",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/7aa9e14d-7ba2-40ca-a60c-e017a02e900d"
+        },
+        {
+          "name": "dayra el hafla",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/c1489246-ff1f-4f32-8417-fe6c6bdfd4be"
+        },
+        {
+          "name": "b la moto",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/0d52ad57-db12-4fea-9cb4-c08213300bff"
+        },
+        {
+          "name": "soltan e’lil",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/55b25df1-c3a3-43ce-bb7c-ee9c9ee69ad2"
+        },
+        {
+          "name": "bine yedik",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/af24968b-4502-4544-90c6-a23afb96a8c0"
+        },
+        {
+          "name": "ya denia désolé",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/5bb3d7ba-cf2e-40b7-8f5e-426e28afa978"
         }
-    ]
+      ]
+    },
+    {
+      "image": "https://earnest-koala-884.convex.cloud/api/storage/442acbd9-d203-4a98-8b40-235be28f6c5e",
+      "singer 1": "7liwa",
+      "tracks": [
+        {
+          "name": "عطار - لمحتك",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/68287cb6-32f0-4bf7-969e-0716a55ab9a5"
+        },
+        {
+          "name": "kolla nhar",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/4b5996f2-1491-407d-9822-c5eefc83a73f"
+        },
+        {
+          "name": "no love",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/0732399e-74b2-473c-8602-dcda812b8a9e"
+        },
+        {
+          "name": "kakashi",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/283431ce-328b-4e35-99eb-5102c5528ccc"
+        },
+        {
+          "name": "douwi douwi",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/11dacb43-abe5-4636-8d64-08e14682d9aa"
+        },
+        {
+          "name": "rym wahdani",
+          "url": "https://earnest-koala-884.convex.cloud/api/storage/eac77e9f-b74c-4f8a-b88a-95c407f21a02"
+        }
+      ]
+    }
+  ]
 }
