@@ -1,73 +1,35 @@
 {
-    "app_title": "Rap Maroc",
-    "more": "https://play.google.com/store/apps/developer?id=MusicSong+inc&hl=fr",
-    "id_admob": "",
-    "inter_admob_ad": "ca-app-pub-3940256099942544/1033173712",
-    "banner_admob_ad": "ca-app-pub-3940256099942544/2247696110",
-    "clicks": "5",
-    "time": "2",
-    "singers": [
+  "app_title": "test",
+  "more": "test",
+  "id_admob": "111",
+  "inter_admob_ad": "11111",
+  "banner_admob_ad": "111111",
+  "clicks": "1",
+  "time": "1",
+  "singers": [
     {
-      "image": "https://earnest-koala-884.convex.cloud/api/storage/8ac1f096-bf24-4be5-9881-e891c6a5634d",
-      "singer 1": "Djalil palermo",
+      "image": "http://164.132.56.39:5555/images/salmane/artist_0_1767751342640_2410.png",
+      "singer 1": "travis",
       "tracks": [
         {
-          "name": "dalam roho ft adel catania",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/7da83d82-b2a8-44f3-bc9c-f754003829f7"
+          "name": "ElevenLabs_2025-12-26T22_51_42_Alice - Clear, Engaging Educator_pre_sp100_s50_sb75_se0_b_m2",
+          "url": "http://164.132.56.39:5555/songs/salmane/track_0_0_1767751350262_5358.mp3"
         },
         {
-          "name": "nabra men hbalek",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/7aa9e14d-7ba2-40ca-a60c-e017a02e900d"
+          "name": "ambulance-2",
+          "url": "http://164.132.56.39:5555/songs/salmane/track_0_1_1767751350263_3077.mp3"
         },
         {
-          "name": "dayra el hafla",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/c1489246-ff1f-4f32-8417-fe6c6bdfd4be"
+          "name": "le-ileha-ella-allah",
+          "url": "http://164.132.56.39:5555/songs/salmane/track_0_2_1767751350264_8779.mp3"
         },
         {
-          "name": "b la moto",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/0d52ad57-db12-4fea-9cb4-c08213300bff"
+          "name": "l3azwa",
+          "url": "http://164.132.56.39:5555/songs/salmane/track_0_3_1767751350264_4099.mp3"
         },
         {
-          "name": "soltan e’lil",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/55b25df1-c3a3-43ce-bb7c-ee9c9ee69ad2"
-        },
-        {
-          "name": "bine yedik",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/af24968b-4502-4544-90c6-a23afb96a8c0"
-        },
-        {
-          "name": "ya denia désolé",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/5bb3d7ba-cf2e-40b7-8f5e-426e28afa978"
-        }
-      ]
-    },
-    {
-      "image": "https://earnest-koala-884.convex.cloud/api/storage/442acbd9-d203-4a98-8b40-235be28f6c5e",
-      "singer 1": "7liwa",
-      "tracks": [
-        {
-          "name": "عطار - لمحتك",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/68287cb6-32f0-4bf7-969e-0716a55ab9a5"
-        },
-        {
-          "name": "kolla nhar",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/4b5996f2-1491-407d-9822-c5eefc83a73f"
-        },
-        {
-          "name": "no love",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/0732399e-74b2-473c-8602-dcda812b8a9e"
-        },
-        {
-          "name": "kakashi",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/283431ce-328b-4e35-99eb-5102c5528ccc"
-        },
-        {
-          "name": "douwi douwi",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/11dacb43-abe5-4636-8d64-08e14682d9aa"
-        },
-        {
-          "name": "rym wahdani",
-          "url": "https://earnest-koala-884.convex.cloud/api/storage/eac77e9f-b74c-4f8a-b88a-95c407f21a02"
+          "name": "n-ldhy-smtny-my-hydr",
+          "url": "http://164.132.56.39:5555/songs/salmane/track_0_4_1767751350265_53.mp3"
         }
       ]
     }
