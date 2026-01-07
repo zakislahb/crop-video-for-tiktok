@@ -1,6 +1,6 @@
 {
-  "app_title": "test",
-  "more": "test",
+  "app_title": "salmane",
+  "more": "--",
   "id_admob": "111",
   "inter_admob_ad": "11111",
   "banner_admob_ad": "111111",
@@ -8,28 +8,12 @@
   "time": "1",
   "singers": [
     {
-      "image": "http://164.132.56.39:5555/images/salmane/artist_0_1767751342640_2410.png",
-      "singer 1": "travis",
+      "image": "http://dash.bombardiro.art/images/salmane/artist_0_1767752508325_9228.png",
+      "singer 1": "TalkinToys",
       "tracks": [
         {
-          "name": "ElevenLabs2",
-          "url": "http://164.132.56.39:5555/songs/salmane/track_0_0_1767751350262_5358.mp3"
-        },
-        {
-          "name": "ambulance-2",
-          "url": "http://164.132.56.39:5555/songs/salmane/track_0_1_1767751350263_3077.mp3"
-        },
-        {
-          "name": "le-ileha-ella-allah",
-          "url": "http://164.132.56.39:5555/songs/salmane/track_0_2_1767751350264_8779.mp3"
-        },
-        {
-          "name": "l3azwa",
-          "url": "http://164.132.56.39:5555/songs/salmane/track_0_3_1767751350264_4099.mp3"
-        },
-        {
-          "name": "n-ldhy-smtny-my-hydr",
-          "url": "http://164.132.56.39:5555/songs/salmane/track_0_4_1767751350265_53.mp3"
+          "name": "TalkinToys - Be My First One (Official Audio)",
+          "url": "http://dash.bombardiro.art/songs/salmane/track_0_0_1767752516687_4970.mp3"
         }
       ]
     }
