@@ -1,23 +1,69 @@
 {
-  "app_title": "salmane",
-  "more": "--",
+  "app_title": "Rap Maroc",
+  "more": "https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC&hl=fr_CA",
   "id_admob": "111",
-  "inter_admob_ad": "11111",
-  "banner_admob_ad": "111111",
-  "clicks": "1",
-  "time": "1",
+  "inter_admob_ad": "ca-app-pub-3940256099942544/1033173712",
+  "banner_admob_ad": "ca-app-pub-3940256099942544/2247696110",
+  "clicks": "3",
+  "time": "3",
   "singers": [
     {
-      "image": "http://dash.bombardiro.art/images/salmane/artist_0_1767753164113_7464.png",
+      "image": "https://dash.bombardiro.art/images/salmane/artist_0_1768174575486_3447.png",
       "singer 1": "TalkinToys",
       "tracks": [
         {
-          "name": "track1",
+          "name": "kolla nhar",
           "url": "https://dash.bombardiro.art/songs/salmane/track_0_0_1768174376010_1840.mp3"
         },
         {
-          "name": "track2",
+          "name": "no love",
           "url": "https://dash.bombardiro.art/songs/salmane/track_0_1_1768174376019_1488.mp3"
+        },
+        {
+          "name": "kakashi",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_0_0_1768174583920_2584.mp3"
+        },
+        {
+          "name": "douwi douwi",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_0_1_1768174583932_6200.mp3"
+        },
+        {
+          "name": "rym wahdani",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_0_2_1768174583966_5558.mp3"
+        }
+      ]
+    },
+    {
+      "image": "https://dash.bombardiro.art/images/salmane/artist_1_1768174914719_1856.png",
+      "singer 2": "Djalil palermo",
+      "tracks": [
+        {
+          "name": "dalam roho ft adel catania",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_0_1768174923419_2361.mp3"
+        },
+        {
+          "name": "nabra men hbalek",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_1_1768174923425_5037.mp3"
+        },
+        {
+          "name": "dayra el hafla",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_2_1768174923444_5714.mp3"
+        },
+        {
+          "name": "b la moto",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_3_1768174923476_9448.mp3"
+        },
+        {
+          "name": "soltan e’lil",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_4_1768174923499_6366.mp3"
+        },
+        {
+          "name": "bine yedik",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_5_1768174923518_3505.mp3"
+        },
+        {
+          "name": "ya denia désolé",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_1_6_1768174923539_1401.mp3"
         }
       ]
     }
