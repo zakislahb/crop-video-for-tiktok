@@ -12,8 +12,12 @@
       "singer 1": "TalkinToys",
       "tracks": [
         {
-          "name": "TalkinToys - Be My First One",
-          "url": "http://dash.bombardiro.art/songs/salmane/track_0_0_1767753168531_3409.mp3"
+          "name": "track1",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_0_0_1768174376010_1840.mp3"
+        },
+        {
+          "name": "track2",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_0_1_1768174376019_1488.mp3"
         }
       ]
     }
