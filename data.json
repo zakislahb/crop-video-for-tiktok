@@ -1,3 +1,4 @@
+
 {
   "app_title": "Rap Maroc",
   "more": "https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC&hl=fr_CA",
@@ -65,6 +66,24 @@
         {
           "name": "ya denia désolé",
           "url": "https://dash.bombardiro.art/songs/salmane/track_1_6_1768174923539_1401.mp3"
+        }
+      ]
+    },
+    {
+      "image": "https://dash.bombardiro.art/images/salmane/artist_2_1770944556930_7463.png",
+      "singer 3": "Elgrandetoto",
+      "tracks": [
+        {
+          "name": "bling bling",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_2_0_1770944581452_1458.mp3"
+        },
+        {
+          "name": "fin de session",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_2_1_1770944581471_9450.mp3"
+        },
+        {
+          "name": "bouhali",
+          "url": "https://dash.bombardiro.art/songs/salmane/track_2_2_1770944581480_4988.mp3"
         }
       ]
     }
