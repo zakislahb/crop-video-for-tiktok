@@ -9,7 +9,7 @@
   "click": "true",
   "native": "4",
   "price": "3",
-  "NoAds": "false",
+  "NoAds": "true",
   "singers": [
     {
       "image": "https://dash.bombardiro.art/images/salmane/artist_0_1768174575486_3447.png",
