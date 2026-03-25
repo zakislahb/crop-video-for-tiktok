@@ -12,28 +12,344 @@
   "NoAds": "true",
   "singers": [
     {
-      "image": "https://dash.bombardiro.art/images/salmane/artist_0_1768174575486_3447.png",
-      "singer 1": "7liwa",
+      "image": "images/rap/image_1774473018261_715.png",
+      "singer 1": "Pause Flow",
       "tracks": [
         {
-          "name": "kolla nhar",
-          "url": "https://dash.bombardiro.art/songs/salmane/track_0_0_1768174376010_1840.mp3"
+          "name": "Alaska",
+          "url": "songs/rap/song_1774473030085_9015.mp3"
         },
         {
-          "name": "no love",
-          "url": "https://dash.bombardiro.art/songs/salmane/track_0_1_1768174376019_1488.mp3"
+          "name": "Mchta w Gdem",
+          "url": "songs/rap/song_1774473030115_6685.mp3"
         },
         {
-          "name": "kakashi",
-          "url": "https://dash.bombardiro.art/songs/salmane/track_0_0_1768174583920_2584.mp3"
+          "name": "112",
+          "url": "songs/rap/song_1774473030100_6579.mp3"
         },
         {
-          "name": "douwi douwi",
-          "url": "https://dash.bombardiro.art/songs/salmane/track_0_1_1768174583932_6200.mp3"
+          "name": "L’Bayda Mon Amour",
+          "url": "songs/rap/song_1774473031104_2906.mp3"
         },
         {
-          "name": "rym wahdani",
-          "url": "https://dash.bombardiro.art/songs/salmane/track_0_2_1768174583966_5558.mp3"
+          "name": "CC",
+          "url": "songs/rap/song_1774473031116_4984.mp3"
+        },
+        {
+          "name": "Spartacus",
+          "url": "songs/rap/song_1774473031120_7081.mp3"
+        },
+        {
+          "name": "Kamigaz",
+          "url": "songs/rap/song_1774473031918_593.mp3"
+        },
+        {
+          "name": "Metapsy",
+          "url": "songs/rap/song_1774473031964_2805.mp3"
+        },
+        {
+          "name": "Metapsy 112",
+          "url": "songs/rap/song_1774473031965_613.mp3"
+        },
+        {
+          "name": "In-trou112",
+          "url": "songs/rap/song_1774473032713_4817.mp3"
+        },
+        {
+          "name": "FLASHBACK",
+          "url": "songs/rap/song_1774473032765_2635.mp3"
+        },
+        {
+          "name": "DISSCRACK",
+          "url": "songs/rap/song_1774473032773_8636.mp3"
+        },
+        {
+          "name": "ROULETTE RUSSE",
+          "url": "songs/rap/song_1774473033336_6773.mp3"
+        },
+        {
+          "name": "MONOLOGUE",
+          "url": "songs/rap/song_1774473033356_7657.mp3"
+        },
+        {
+          "name": "LUCIFER",
+          "url": "songs/rap/song_1774473033378_6377.mp3"
+        },
+        {
+          "name": "ZANDA",
+          "url": "songs/rap/song_1774473034088_6087.mp3"
+        },
+        {
+          "name": "A SUIVRE",
+          "url": "songs/rap/song_1774473034114_9117.mp3"
+        },
+        {
+          "name": "HABITUS Revdor & Aya Beats",
+          "url": "songs/rap/song_1774473034132_9300.mp3"
+        },
+        {
+          "name": "FREEMNSTYLE",
+          "url": "songs/rap/song_1774473035685_9685.mp3"
+        },
+        {
+          "name": "LYAM",
+          "url": "songs/rap/song_1774473035696_4511.mp3"
+        },
+        {
+          "name": "TIKI TAKA ftBERMUDA",
+          "url": "songs/rap/song_1774473035704_8042.mp3"
+        },
+        {
+          "name": "NOSTALGIA III",
+          "url": "songs/rap/song_1774473036464_9880.mp3"
+        },
+        {
+          "name": "CAGEDraconic",
+          "url": "songs/rap/song_1774473036473_7180.mp3"
+        },
+        {
+          "name": "RED PILL",
+          "url": "songs/rap/song_1774473036472_3054.mp3"
+        },
+        {
+          "name": "DROP",
+          "url": "songs/rap/song_1774473037087_6566.mp3"
+        },
+        {
+          "name": "INTRO",
+          "url": "songs/rap/song_1774473037090_2289.mp3"
+        },
+        {
+          "name": "ORCA feat BERMUDARevdor",
+          "url": "songs/rap/song_1774473037122_7852.mp3"
+        },
+        {
+          "name": "GHAYBOUBA FREESTYLE",
+          "url": "songs/rap/song_1774473037754_4993.mp3"
+        },
+        {
+          "name": "PAUSE feat SOUKAINA FAHSI - MCHRDOUL",
+          "url": "songs/rap/song_1774473037814_9231.mp3"
+        },
+        {
+          "name": "ThirdEye lS13 × ID",
+          "url": "songs/rap/song_1774473037822_5876.mp3"
+        },
+        {
+          "name": "Mol7aQ ملحق",
+          "url": "songs/rap/song_1774473038356_4336.mp3"
+        },
+        {
+          "name": "PAUSENECROPHILIA： Aya Beats",
+          "url": "songs/rap/song_1774473038383_5547.mp3"
+        },
+        {
+          "name": "PEEKABOO",
+          "url": "songs/rap/song_1774473038414_5244.mp3"
+        },
+        {
+          "name": "BTK",
+          "url": "songs/rap/song_1774473038936_7804.mp3"
+        },
+        {
+          "name": "NOSTALGIA 2",
+          "url": "songs/rap/song_1774473038939_5611.mp3"
+        },
+        {
+          "name": "MEGALOMANIA lSOLARIS",
+          "url": "songs/rap/song_1774473038945_2097.mp3"
+        },
+        {
+          "name": "Fornax A SOLARIS",
+          "url": "songs/rap/song_1774473039461_9120.mp3"
+        },
+        {
+          "name": "AKTION t4",
+          "url": "songs/rap/song_1774473039465_6916.mp3"
+        },
+        {
+          "name": "Freestyle",
+          "url": "songs/rap/song_1774473039469_6770.mp3"
+        },
+        {
+          "name": "Ouroboros lSOLARIS",
+          "url": "songs/rap/song_1774473040189_4723.mp3"
+        },
+        {
+          "name": "Codex GigaslSOLARIS",
+          "url": "songs/rap/song_1774473040221_5718.mp3"
+        },
+        {
+          "name": "PAUSE feat BERMUDA - Nausea",
+          "url": "songs/rap/song_1774473040223_342.mp3"
+        },
+        {
+          "name": "SADOU",
+          "url": "songs/rap/song_1774473040785_4939.mp3"
+        },
+        {
+          "name": "SPIN",
+          "url": "songs/rap/song_1774473040787_9681.mp3"
+        },
+        {
+          "name": "NIHIL",
+          "url": "songs/rap/song_1774473040788_9647.mp3"
+        },
+        {
+          "name": "FREESTYLE",
+          "url": "songs/rap/song_1774473041335_8323.mp3"
+        },
+        {
+          "name": "Bonne Nuit",
+          "url": "songs/rap/song_1774473041328_1964.mp3"
+        },
+        {
+          "name": "Abstrait",
+          "url": "songs/rap/song_1774473041337_2898.mp3"
+        },
+        {
+          "name": "Freestyle BANDA",
+          "url": "songs/rap/song_1774473041803_4176.mp3"
+        },
+        {
+          "name": "Tic TacFATWA",
+          "url": "songs/rap/song_1774473041829_5844.mp3"
+        },
+        {
+          "name": "FREESTYLEPause & Bermuda",
+          "url": "songs/rap/song_1774473041843_8255.mp3"
+        },
+        {
+          "name": "PAUSE & 15-3Pick n' Roll",
+          "url": "songs/rap/song_1774473042534_737.mp3"
+        },
+        {
+          "name": "DOWSING",
+          "url": "songs/rap/song_1774473042550_9507.mp3"
+        },
+        {
+          "name": "LEVY - GOYA __ XICK",
+          "url": "songs/rap/song_1774473042552_6595.mp3"
+        },
+        {
+          "name": "निर्वाण - Nirvana نيرفانا",
+          "url": "songs/rap/song_1774473043093_7607.mp3"
+        },
+        {
+          "name": "Toucown",
+          "url": "songs/rap/song_1774473043093_9722.mp3"
+        },
+        {
+          "name": "Le Mandarin",
+          "url": "songs/rap/song_1774473043101_8179.mp3"
+        },
+        {
+          "name": "LWIZA",
+          "url": "songs/rap/song_1774473043584_9444.mp3"
+        },
+        {
+          "name": "Pere Noel",
+          "url": "songs/rap/song_1774473043592_4487.mp3"
+        },
+        {
+          "name": "Pause & Levy - Psychedelic",
+          "url": "songs/rap/song_1774473043595_2173.mp3"
+        },
+        {
+          "name": "Pararap",
+          "url": "songs/rap/song_1774473044076_1926.mp3"
+        },
+        {
+          "name": "IIPAUSEXanaX زاناكس",
+          "url": "songs/rap/song_1774473044100_8171.mp3"
+        },
+        {
+          "name": "Krampus كرامبوس",
+          "url": "songs/rap/song_1774473044101_5539.mp3"
+        },
+        {
+          "name": "Courtage لكورطاج",
+          "url": "songs/rap/song_1774473044580_3828.mp3"
+        },
+        {
+          "name": "Courtage لكورطاج",
+          "url": "songs/rap/song_1774473044596_696.mp3"
+        },
+        {
+          "name": "نوستالجيا",
+          "url": "songs/rap/song_1774473044602_4189.mp3"
+        },
+        {
+          "name": "HALWASA الجزء الرابع",
+          "url": "songs/rap/song_1774473045223_6873.mp3"
+        },
+        {
+          "name": "HALWASA الجزء الثالث",
+          "url": "songs/rap/song_1774473045247_1543.mp3"
+        },
+        {
+          "name": "HALWASA الجزء الثاني",
+          "url": "songs/rap/song_1774473045249_174.mp3"
+        },
+        {
+          "name": "HALWASA هلوسة",
+          "url": "songs/rap/song_1774473045733_8243.mp3"
+        },
+        {
+          "name": "WAA DOUNYA",
+          "url": "songs/rap/song_1774473045735_4607.mp3"
+        },
+        {
+          "name": "Zéro Mika زيرو ميكا",
+          "url": "songs/rap/song_1774473045734_5705.mp3"
+        },
+        {
+          "name": "HORS-JEU",
+          "url": "songs/rap/song_1774473046187_4452.mp3"
+        },
+        {
+          "name": "1912",
+          "url": "songs/rap/song_1774473046211_4928.mp3"
+        },
+        {
+          "name": "BOITE VOCALE",
+          "url": "songs/rap/song_1774473046214_7935.mp3"
+        },
+        {
+          "name": "Je Suis AMAZIGH",
+          "url": "songs/rap/song_1774473046806_5487.mp3"
+        },
+        {
+          "name": "SUDOKU",
+          "url": "songs/rap/song_1774473046819_4960.mp3"
+        },
+        {
+          "name": "RONDA",
+          "url": "songs/rap/song_1774473046824_3417.mp3"
+        },
+        {
+          "name": "Code PIN",
+          "url": "songs/rap/song_1774473047332_2685.mp3"
+        },
+        {
+          "name": "Free-Style 5",
+          "url": "songs/rap/song_1774473047336_5799.mp3"
+        },
+        {
+          "name": "100 Kg",
+          "url": "songs/rap/song_1774473047343_9940.mp3"
+        },
+        {
+          "name": "Free-Style 4 - GHANTSAYAD",
+          "url": "songs/rap/song_1774473048014_1387.mp3"
+        },
+        {
+          "name": "MA3LABALI WALO",
+          "url": "songs/rap/song_1774473048024_3036.mp3"
+        },
+        {
+          "name": "MACHI BEL3ANI",
+          "url": "songs/rap/song_1774473048028_425.mp3"
         }
       ]
     }
