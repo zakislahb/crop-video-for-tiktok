@@ -1,15 +1,15 @@
 {
+  "app_id": "ca-app-pub-3852250454111077~6407260397",
   "app_title": "Rap Maroc",
-  "more": "https://play.google.com/store/apps/developer?id=Amazon+Mobile+LLC&hl=fr_CA",
-  "id_admob": "111",
-  "inter_admob_ad": "ca-app-pub-3940256099942544/1033173712",
-  "banner_admob_ad": "ca-app-pub-3940256099942544/2247696110",
+  "more": "https://play.google.com/store/apps/developer?id=MusicSong+inc",
+  "inter_admob_ad": "ca-app-pub-3852250454111077/3781097051",
+  "banner_admob_ad": "ca-app-pub-3852250454111077/5346561219",
   "clicks": "3",
   "time": "3",
   "click": "true",
-  "native": "4",
-  "price": "3",
-  "NoAds": "true",
+  "native": "5",
+  "NoAds": "false",
+  "price": "",
   "singers": [
     {
       "image": "http://38.247.141.149:55999/images/rap/image_1774473018261_715.png",
